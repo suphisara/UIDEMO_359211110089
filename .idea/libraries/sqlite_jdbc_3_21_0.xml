@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.21.0">
+    <CLASSES>
+      <root url="jar://D:/uidemo/sqlite-jdbc-3.21.0.jar!/" />
+      <root url="jar://D:/uidemo/jfoenix-8.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
