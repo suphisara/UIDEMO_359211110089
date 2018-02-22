@@ -15,8 +15,6 @@ public class Controller implements Initializable {
     @FXML
     private Label dbStatus;
     @FXML
-    private  Label getDbStatus;
-    @FXML
     private Label loginStatus;
     @FXML
     private TextField username;
